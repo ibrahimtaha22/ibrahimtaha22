@@ -31,13 +31,13 @@ My goal is to grow into a professional developer through consistent learning and
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimTahaDev&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimtaha22&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
 
 ## 🎯 LeetCode Heatmap
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/yousefmohameddergham?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Ibrahim_Taha74?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 
@@ -45,9 +45,8 @@ My goal is to grow into a professional developer through consistent learning and
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yousefdergham.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousefdergham)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YousefMohamed01)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yousefdergham)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ibrahimtaha22.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahim-taha-162221354)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ibrahimt_dev)
 
 </div>
