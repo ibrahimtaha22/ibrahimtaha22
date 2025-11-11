@@ -26,18 +26,25 @@ My goal is to grow into a professional developer through consistent learning and
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 
 
-## 📊 GitHub Stats
+## 🎯 Codewars Progress
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimtaha22&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github.r2v.ch/codewars?user=ibrahimtaha22&top_languages=true&theme=midnight_purple" />
 </div>
 
 ## 🎯 LeetCode Heatmap
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Ibrahim_Taha74?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimtaha22&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
 
 
