@@ -1,6 +1,6 @@
 # Hey there, I'm [Ibrahim Taha](https://vercel.com/ibrahimtaha22s-projects?view=grid) 👋
 
-**Full-stack Web Developer ·  
+**Frontend Developer | Specialized in Semantic HTML & Vanilla JS·  
 
 🌱 Beginner learning programming | 💻 Building small projects | 🚀 Growing every day
 
